@@ -1,11 +1,11 @@
-<div style="display:flex;align-items:center;justify-content:center;margin-bottom:40px">
+<div align=center style="margin-bottom:40px">
   <img src=".github/logo.svg" width="64" style="margin-right: 16px">
 
-  <strong style="font-size: 32px;font-weight:500">Feedback Widget</strong>
+  <h1>Feedback Widget</h1>
 </div>
 
 <div align=center style="margin-bottom:40px">
-  <img src=".github/preview.png" width="700">
+  <img src=".github/preview.png" width="600">
 </div>
 
 ## Sobre o projeto 🤯
